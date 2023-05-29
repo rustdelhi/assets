@@ -1,0 +1,1 @@
+This folder is reserved for the logo vector files
